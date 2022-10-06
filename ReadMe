@@ -1,0 +1,4 @@
+Necessary Extensions for VS studio in Tailwind CSS usage:
+Tailwind CSS IntelliSense - https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss
+Prettier for TailWind - npm install -D prettier prettier-plugin-tailwindcss (Github: https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
+ES7+ React/redux/react-native syntax for starting react templates per components
